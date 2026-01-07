@@ -1,0 +1,4 @@
+Oracle NUMBER(10)   -> MySQL INT
+Oracle NUMBER(12,2) -> MySQL DECIMAL(12,2)
+Oracle VARCHAR2    -> MySQL VARCHAR
+Oracle DATE        -> MySQL DATETIME
